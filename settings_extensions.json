@@ -1,0 +1,31 @@
+{
+  "extensions.recommendations": [
+    "Angular.ng-template",
+    "shalldie.background",
+    "oven.bun-vscode",
+    "Anthropic.claude-code",
+    "cweijan.vscode-database-client2",
+    "cweijan.dbclient-jdbc",
+    "fill-labs.dependi",
+    "EditorConfig.EditorConfig",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "codezombiech.gitignore",
+    "GitLab.gitlab-workflow",
+    "ms-vscode.hexeditor",
+    "ecmel.vscode-html-css",
+    "James-Yu.latex-workshop",
+    "zaaack.markdown-editor",
+    "PKief.material-icon-theme",
+    "unifiedjs.vscode-mdx",
+    "christian-kohler.npm-intellisense",
+    "oxc.oxc-vscode",
+    "esbenp.prettier-vscode",
+    "cweijan.vscode-redis-client",
+    "dcloud-ide.hbuilderx-language-services",
+    "vitest.explorer",
+    "Vue.volar"
+  ]
+}
