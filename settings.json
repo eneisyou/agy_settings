@@ -1,0 +1,89 @@
+{
+  "editor.fontSize": 25,
+  "editor.fontFamily": "IntoneMono Nerd Font Mono",
+  "terminal.integrated.fontSize": 18,
+  "debug.console.fontSize": 20,
+  "scm.inputFontSize": 20,
+  "markdown.preview.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Monokai",
+  "workbench.sideBar.location": "right",
+  "workbench.auxiliaryActivityBar.location": "top",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.panel.showLabels": false,
+  "workbench.activityBar.location": "top",
+  "claudeCode.preferredLocation": "sidebar",
+  "keyboard.dispatch": "keyCode",
+  "files.autoSave": "onFocusChange",
+  "files.autoSaveWhenNoErrors": false,
+  "files.autoSaveWorkspaceFilesOnly": false,
+  "editor.lineNumbers": "relative",
+  "notebook.lineNumbers": "on",
+  "editor.wordWrap": "on",
+  "editor.cursorStyle": "block",
+  "explorer.confirmDelete": false,
+  "background.editor": {
+    "useFront": true,
+    "style": {
+      "background-position": "100% 100%",
+      "background-size": "auto",
+      "opacity": 0.6
+    },
+    "styles": [
+      {},
+      {},
+      {}
+    ],
+    "images": [],
+    "interval": 0,
+    "random": false
+  },
+  "background.fullscreen": {
+    "images": [
+      "file:///Users/eneis/Documents/an/an.png"
+    ],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[uvue]": {
+    "editor.defaultFormatter": "dcloud-ide.hbuilderx-language-services"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "workbench.editorAssociations": {
+    "{git,gitlens,conflictResolution,vscode-local-history}:/**/*.tc.json": "default",
+    "{git,gitlens,conflictResolution,vscode-local-history}:/**/*.{asl.json,asl.yaml,asl.yml}": "default",
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "{hexdiff}:/**/*.*": "hexEditor.hexedit",
+    "*.pdf": "latex-workshop-pdf-hook"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true
+}
