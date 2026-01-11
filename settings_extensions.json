@@ -26,6 +26,10 @@
     "cweijan.vscode-redis-client",
     "dcloud-ide.hbuilderx-language-services",
     "vitest.explorer",
-    "Vue.volar"
+    "Vue.volar",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-python-envs",
+    "mechatroner.rainbow-csv"
   ]
 }
